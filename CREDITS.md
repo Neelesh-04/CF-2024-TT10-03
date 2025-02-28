@@ -27,12 +27,7 @@
 
 
 ### Alumni Mentors
-- Sivaram Durai
-  - Class of 2024, Department of ECE, CEG
-  - Email: sivaramdurai82@gmail.com
-- Nithish V
-  - Class of 2024, Department of ECE, CEG
-  - Email: nithish2003v@gmail.com
+
 - Sivakumar Anandan
   - Class of 2013, Department of ECE, CEG
   - Email: sivakumaranandan@live.com
